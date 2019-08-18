@@ -3,7 +3,6 @@ import { StyleSheet, View } from "react-native";
 import * as Font from "expo-font";
 import { AppLoading } from "expo";
 import Header from "./components/Header";
-import MainButton from "./components/MainButton";
 
 import StartGameScreen from "./screens/StartGameScreen";
 import GameScreen from "./screens/GameScreen";
